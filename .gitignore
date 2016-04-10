@@ -1,3 +1,9 @@
+#BlueJ
+doc/*
+Material/*
+*.TXT
+*.ctxt
+*.bluej
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
